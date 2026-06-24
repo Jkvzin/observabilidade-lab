@@ -1,4 +1,4 @@
-# Observabilidade Lab 2
+# Observabilidade Lab — Stack Completa (SRE & DevOps)
 
 Laboratorio pratico de **Engenharia de Confiabilidade (SRE) e Observabilidade** com stack completa: Node.js, Prometheus, Grafana, Loki e Docker.
 
@@ -21,8 +21,8 @@ Laboratorio pratico de **Engenharia de Confiabilidade (SRE) e Observabilidade** 
 ## Como Rodar
 
 ```bash
-git clone https://github.com/Jkvzin/observabilidade-lab-parte-2.git
-cd observabilidade-lab-parte-2
+git clone https://github.com/Jkvzin/observabilidade-lab.git
+cd observabilidade-lab
 docker compose up -d --build
 ```
 
@@ -189,7 +189,7 @@ O Render oferece deploy automatico a partir de repositorios GitHub.
 
 1. Acesse [render.com](https://render.com) e faca login com sua conta do GitHub
 
-2. No dashboard, clique em **New +** → **Web Service** e selecione `Jkvzin/observabilidade-lab-parte-2`
+2. No dashboard, clique em **New +** → **Web Service** e selecione `Jkvzin/observabilidade-lab`
 
 3. Configure o servico:
 
